@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+[Starstuff](https://www.youtube.com/watch?v=tLPkpBN6bEI)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Masters student in Machine Learing, Computer Vision and Algorithms at Northeastern University, Boston. Previously at [ARM](https://en.wikipedia.org/wiki/Arm_Holdings) and [BITS Pilani](https://en.wikipedia.org/wiki/Birla_Institute_of_Technology_and_Science,_Pilani)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Contact: rohinarora07@gmail.com
