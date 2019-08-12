@@ -8,4 +8,4 @@ permalink: /about/
 
 Masters student in Machine Learing, Computer Vision and Algorithms at the Northeastern University, Boston. Previously at [ARM](https://en.wikipedia.org/wiki/Arm_Holdings) , [BITS Pilani](https://en.wikipedia.org/wiki/Birla_Institute_of_Technology_and_Science,_Pilani)
 
-Contact: rohinarora07@gmail.com
+Contact: rohinarora07 at gmail.com
